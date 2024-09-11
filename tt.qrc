@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/tt">
+        <file>bb.jpeg</file>
+    </qresource>
+</RCC>
